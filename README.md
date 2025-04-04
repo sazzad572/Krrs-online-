@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My School</h1>
+        <h1>শিক্ষা আমাদের উদ্দেশ্য</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
