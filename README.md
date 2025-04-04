@@ -77,7 +77,7 @@
   </div>
 
   <div class="event">
-    <img src="https://via.placeholder.com/300x200" alt="Science Fair Image">
+    <img src="https://via.placeholder.com/300x200" alt="my storage image">
     <div class="event-details">
       <h3>Science Fair</h3>
       <p><strong>Date:</strong> June 10, 2025</p>
