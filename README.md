@@ -63,3 +63,22 @@
   <div class="event">
     <h3>Science Fair</h3>
     <p>Date: June 10, 2025
+<section id="events">
+  <h2>Upcoming Events</h2>
+
+  <div class="event">
+    <img src="https://via.placeholder.com/300x200" alt="Sports Day Image">
+    <div class="event-details">
+      <h3>Annual Sports Day</h3>
+      <p><strong>Date:</strong> May 15, 2025</p>
+      <p><strong>Location:</strong> School Playground</p>
+      <p>Join us for a day full of fun sports and games!</p>
+    </div>
+  </div>
+
+  <div class="event">
+    <img src="https://via.placeholder.com/300x200" alt="Science Fair Image">
+    <div class="event-details">
+      <h3>Science Fair</h3>
+      <p><strong>Date:</strong> June 10, 2025</p>
+      <p><strong>
