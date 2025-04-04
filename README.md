@@ -51,3 +51,15 @@
     </footer>
 </body>
 </html>
+<section id="events">
+  <h2>Upcoming Events</h2>
+  <div class="event">
+    <h3>Annual Sports Day</h3>
+    <p>Date: May 15, 2025</p>
+    <p>Location: School Playground</p>
+    <p>Details: Join us for a day full of fun sports and games!</p>
+  </div>
+
+  <div class="event">
+    <h3>Science Fair</h3>
+    <p>Date: June 10, 2025
