@@ -82,4 +82,4 @@
       <h3>Science Fair</h3>
       <p><strong>Date:</strong> June 10, 2025</p>
       <p><strong>
-<img src="event.jpg" alt="My Event Photo" width="300" height="200">
+<img src=https://ibb.co.com/fGqPPHbx alt="My Event Photo" width="300" height="200">
